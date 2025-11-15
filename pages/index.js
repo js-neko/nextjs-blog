@@ -10,6 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+
       <main>
         <h1 className={styles.title}>
           Learn <Link href="/posts/first-post">Next.js!</Link>
